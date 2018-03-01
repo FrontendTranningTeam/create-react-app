@@ -1,0 +1,9 @@
+.Aside {
+  background-color: yellow;
+  float: left;
+  height: 300px;
+  width: 300px;
+}
+.Aside-text {
+  color: white;
+}
