@@ -1,0 +1,27 @@
+.myform {
+  border: 1px solid black;
+  width: 500px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: white;
+  margin-left: 300px;
+}
+.myform__field {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+}
+.myform__message {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.myform__option {
+  height: 50px;
+  min-width: 150px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.myform__submit {
+  height: 50px;
+  padding: 0 20px;
+}
